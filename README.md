@@ -30,63 +30,6 @@ Current Goals:
 
 ---
 
-# 🧠 What I’m Building
-
-## 🔹 QueueLess India
-
-Smart virtual queue management platform for hospitals, banks, and government offices.
-
-### Features
-
-* Live token tracking
-* AI-based wait-time prediction
-* QR check-in system
-* Emergency prioritization
-* Real-time dashboards
-
----
-
-## 🔹 SafeRoute India
-
-Women & student safety heatmap and route intelligence platform.
-
-### Features
-
-* Unsafe route detection
-* Community safety reporting
-* AI route scoring
-* Emergency assistance integration
-* Safety heatmaps
-
----
-
-## 🔹 MedicineNearMe
-
-Real-time medicine availability and emergency pharmacy finder.
-
-### Features
-
-* Nearby medicine stock visibility
-* Generic alternatives
-* Emergency medicine alerts
-* 24×7 pharmacy discovery
-
----
-
-## 🔹 Disaster Intelligence Platform
-
-AI-powered disaster monitoring and emergency response coordination platform.
-
-### Features
-
-* Real-time disaster alerts
-* Incident reporting
-* Resource coordination
-* Geo-intelligence dashboards
-* Public emergency communication
-
----
-
 # 🛠 Tech Stack
 
 <div align="center">
@@ -279,17 +222,7 @@ H --> I[Monitoring & Optimization]
 
 ---
 
-# 🚀 Deployment Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,docker,nginx" />
-
-</div>
-
----
-
-# 📦 Featured Repository Architecture
+# 📦 Repository Structure
 
 ```text
 project-root/
@@ -352,15 +285,13 @@ project-root/
 
 ---
 
-# 🌟 Open Source Vision
+# 🌟 Open Source & Learning
 
-I aim to build technology that creates measurable impact in:
-
-* Healthcare accessibility
-* Public infrastructure
-* Emergency response systems
-* Student-focused platforms
-* AI-driven productivity tools
+* Learning through consistent building
+* Exploring scalable application development
+* Improving problem-solving skills
+* Understanding system design concepts
+* Contributing to meaningful software projects
 
 ---
 
